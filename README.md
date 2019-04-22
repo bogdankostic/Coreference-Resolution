@@ -88,7 +88,7 @@ To make coreference predictions for files in OntoNote-Format, you have to change
 python CoreferenceResolution.py INPUTFILE OUTPUTFILE (CLASSIFIER_BINARY)
 ```
 INPUTFILE/FOLDER is the file or the folder containing the annotated documents in OntoNotes format.  
-OUTPUTFILE is the location where the predictions are saved in OntoNotes format.
+OUTPUTFILE is the location where the predictions are saved in OntoNotes format.  
 CLASSIFIER_BINARY is optional. It has to be the binary of an already trained model (default=SVM).  
 
 This will also produce a file called *CONLL_GOLD_KEY* containing the gold annotations of the input files, which can be used for scoring the system.
