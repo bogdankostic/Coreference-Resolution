@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Coreference Resolution
 # Final Project
-# Bogdan Kostić, 785726, 19 March 2019
+# Bogdan Kostić, 19 March 2019
 # Python 3.7.2
 
 import sys
